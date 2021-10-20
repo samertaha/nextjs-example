@@ -29,3 +29,5 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
+in this project we practiced building simple nextjs app with using h=the css framework tailwind,
+example was deployed on https://nextjs-example-red.vercel.app/
